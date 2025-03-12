@@ -1,0 +1,11 @@
+class wish {
+    bbb
+    bbbb
+    bbb
+    bbb
+    int b = 20;
+}
+
+
+
+    

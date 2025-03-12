@@ -1,0 +1,23 @@
+class wish {
+    bbb
+    bbbb
+    bbb
+    bbb
+    int b = 20;
+    int a = 10;
+
+    # task 101
+    int d = 20;
+    int 
+
+    #task 202
+    int h = 40;
+
+    
+}
+
+
+
+
+
+
