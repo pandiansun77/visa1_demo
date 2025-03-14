@@ -10,6 +10,7 @@ class wish {
     int d = 100;
     int c = 100;
     int m = 30;
+    int f = 40;
 
     # task 101
     int d = 20;
