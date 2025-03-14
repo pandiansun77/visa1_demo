@@ -11,6 +11,7 @@ class wish {
     int c = 100;
     int m = 30;
     int f = 40;
+    int pandian = 80;
 
     # task 101
     int d = 20;
