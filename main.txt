@@ -17,6 +17,7 @@ class wish {
 
     #task 202
     int h = 40;
+    int m = 30;
 
     
 }
