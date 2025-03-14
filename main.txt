@@ -6,8 +6,8 @@ class wish {
     bbb
     bbb
     int b = 20;
-    int a = 10;ß
-
+    int a = 10;
+    int c = 100;
     # task 101
     int d = 20;
     int 
