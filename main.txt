@@ -1,4 +1,5 @@
 class wish {
+    mmm
     bbb
     bbbb
     bbb
