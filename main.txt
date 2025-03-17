@@ -21,6 +21,10 @@ class wish {
     int h = 40;
     int m = 30;
 
+    #task 303
+    int a = 20;
+    int b =30;
+
     
 }
 
